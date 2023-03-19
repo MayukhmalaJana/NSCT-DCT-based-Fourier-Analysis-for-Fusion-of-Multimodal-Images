@@ -1,5 +1,11 @@
 # NSCT-DCT-based-Fourier-Analysis-for-Fusion-of-Multimodal-Images
 
+This is the implementation for [NSCT-DCT based Fourier Analysis for Fusion of
+Multimodal Images](https://ieeexplore.ieee.org/document/9667618)
+
+_This paper was awarded the best paper award of the session in 2021 IEEE 8th UPCON_
+
+
 # **_Flowcharts_**
 
 ![image](https://user-images.githubusercontent.com/81149819/226160437-06c84eed-74eb-4233-a855-1a9c91e6ee8a.png)
