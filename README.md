@@ -20,9 +20,13 @@ For diseases diagnosis multimodal medical image fusion is widely used. In our wo
  NSCT-DCT based Fourier Analysis for Fusion of Multimodal Images
  
  Conference Proceedings: 2021 IEEE 8th Uttar Pradesh Section International Conference on     Electrical, Electronics and Computer Engineering (UPCON)
+ 
  Author: Mayukhmala Jana; Subhosri Basu; Arpita Das
+ 
  Publisher: IEEE
+ 
  Date: 11-13 Nov. 2021
+ 
  Copyright © 2021, IEEE
  
  # Usage
