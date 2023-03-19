@@ -38,8 +38,13 @@ For diseases diagnosis multimodal medical image fusion is widely used. In our wo
    **Usage :**
    
           This is the main code for running the fusion methodology,
-          please download other functions and dataset to run this main
+          please download other functions and datasets to run this main
           file properly.
+          
+           For main image fusion use: Main_Fusion.m
+          
+          For example purpose, two image data has been given, one coloured another grayscale.
+          Please download your own datasets to fuse in Main_Fusion.m file
           
   # Citing this work
 
