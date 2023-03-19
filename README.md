@@ -7,6 +7,8 @@ _This paper was awarded the best paper award of the session in 2021 IEEE 8th UPC
 
 # Abstract
 
+For diseases diagnosis multimodal medical image fusion is widely used. In our work a fusion technique has been introduced which can efficiently evaluate the relevant features of individual source images and integrate those into a single image. This is done by integration of relevant complimentary information of Positron Emission Tomography (PET) /Single Photon Emission Computed Tomography (SPECT) with Magnetic Resonance Imaging (MRI). Proposed fusion technique applied Fuzzy c-means (FCM) clustering approach for enhancing the obscure details present in MRI image that helps to detect the affected areas in the brain. Then the non-subsampled contourlet transform is used to decompose the images into low and high frequency sub-bands. For evaluation and processing of significant non redundant information of low frequency sub-band (LFS), Discrete Cosine Transformation (DCT) followed by Discrete Fourier Transformation (DFT) approaches are applied. The information of amplitude and phase spectrum is integrated by well-known Singular Value Decomposition (SVD) method and simple averaging technique respectively. Besides, edge enhancement based fusion technique is developed for fusing high frequency sub band (HFS) coefficients. This fusion rule is capable of extracting significant features from each colour plane of PET/SPECT and hence integrates them with MRI. From the results it can be observed that the fused image has higher visual clarity and better comparative metrics.
+
 # **_Flowcharts_**
 
 ![image](https://user-images.githubusercontent.com/81149819/226160437-06c84eed-74eb-4233-a855-1a9c91e6ee8a.png)
