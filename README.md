@@ -3,7 +3,7 @@
 This is the implementation for [NSCT-DCT based Fourier Analysis for Fusion of
 Multimodal Images](https://ieeexplore.ieee.org/document/9667618)
 
-_This paper was awarded the best paper award of the session in 2021 IEEE 8th UPCON_
+_This paper was presented in 2021 IEEE 8th UPCON_
 
 # Abstract
 
