@@ -15,10 +15,8 @@ For diseases diagnosis multimodal medical image fusion is widely used. In our wo
 
 ![image](https://user-images.githubusercontent.com/81149819/226160445-b21e6b9b-e3ac-4142-b350-7bfd887b21f1.png)
 
-**About the paper: Multi-target tracking using Ramanujan Sum based DWT**
+**About the paper: NSCT-DCT based Fourier Analysis for Fusion of Multimodal Images**
 
- NSCT-DCT based Fourier Analysis for Fusion of Multimodal Images
- 
  Conference Proceedings: 2021 IEEE 8th Uttar Pradesh Section International Conference on     Electrical, Electronics and Computer Engineering (UPCON)
  
  Author: Mayukhmala Jana; Subhosri Basu; Arpita Das
